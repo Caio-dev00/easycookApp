@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "easycook",
+    "slug": "easycook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
